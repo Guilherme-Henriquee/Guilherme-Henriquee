@@ -19,7 +19,7 @@
 <br>
 
 ## ## Reach me 📫
-[![Gmail](https://img.shields.io/badge/-lucascesar.lorena@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:lucascesar.lorena@gmail.com)](mailto:guihenrics@gmail.com)
+[![Gmail](https://img.shields.io/badge/-guihenrics@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guihenrics@gmail.com)](mailto:guihenrics@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-henrique-de-lima)
 
 
