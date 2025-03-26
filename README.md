@@ -20,7 +20,7 @@
 
 ## ## Reach me 📫
 [![Gmail](https://img.shields.io/badge/-guihenrics@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guihenrics@gmail.com)](mailto:guihenrics@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-henrique-de-lima)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-henrique-de-lima/)
 
 
 <br>
@@ -32,6 +32,6 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henriquee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemaogalego&layout=compact&langs_count=7&theme=tokyonight"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henriquee&layout=compact&langs_count=7&theme=tokyonight"/> 
   </center>
 </div>
