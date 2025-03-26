@@ -29,7 +29,7 @@
 <div>
   <a href="https://github.com/Guilherme-Henriquee">
   <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alemaogalego&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="centered image">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henriquee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="centered image">
   </center>
   <center>  
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alemaogalego&layout=compact&langs_count=7&theme=tokyonight"/> 
