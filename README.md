@@ -1,4 +1,4 @@
-<img src="banner.png">
+<img src="banner.jpg">
 
 ### ✨ Hi there, I'm Guilherme! ✨
 - Computer Science undergraduate (7th semester);
