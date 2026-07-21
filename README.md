@@ -1,37 +1,81 @@
-<img src="banner.jpg">
-
-### ✨ Hi there, I'm Guilherme! ✨
-- Computer Science undergraduate (7th semester);
-- Passionate about programming, machine learning, data science and robotics.
-- I try to learn something new every day.
-
-<br>
-
-## Languages e Tools 💻
-<div style="display: inline">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img align="center" alt="github" src="https://camo.githubusercontent.com/9615f692f99844da494943003eaccff605cf4b4a5a50514b6339935a6e74b3c0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3138313731373f7374796c653d666f722d7468652d6261646765266c6f676f3d476974487562266c6f676f436f6c6f723d464646464646" />
-  <img align="center" alt="css" src="https://camo.githubusercontent.com/7721cf416e25c8e47606ecde48482bfb7058af72eb83da39aedb11f6fcb768cc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3636333339393f7374796c653d666f722d7468652d6261646765266c6f676f3d435353266c6f676f436f6c6f723d464646464646" />
-  <img align="center" alt="html" src="https://camo.githubusercontent.com/45073e07a6b8ca03b863a5c08db1f8f2051be8ec8f07242106fd4a3c0ec6d2a8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d48544d4c35266c6f676f436f6c6f723d464646464646" />
-
-<br>
-
-## ## Reach me 📫
-[![Gmail](https://img.shields.io/badge/-guihenrics@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:guihenrics@gmail.com)](mailto:guihenrics@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-henrique-de-lima/)
-
-
-<br>
-
-## GitHub Stats ⚡
-<div>
-  <a href="https://github.com/Guilherme-Henriquee">
-  <center>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Henriquee&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="centered image">
-  </center>
-  <center>  
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Henriquee&layout=compact&langs_count=7&theme=tokyonight"/> 
-  </center>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Guilherme%20Lima&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Computer%20Scientist%20%7C%20Full%20Stack%20Dev&descAlignY=55&descAlign=50" />
 </div>
+<br/>
+ 
+> Computer Science graduate, currently pursuing a Postgraduate Specialization in Full Stack Development. Passionate about programming, machine learning, data science and robotics. I try to learn something new every day. 🚀
+ 
+---
+ 
+## 🧑‍💻 About Me
+ 
+- 🎓 **Computer Science** — Graduated
+- 💻 **Postgraduate Student** in Full Stack Development
+- 🤖 Passionate about **Machine Learning** and **Data Science**
+- 🤖 Also love **Robotics** and automation
+- 📖 Lifelong learner — always exploring something new
+- 📍 Brazil
+
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-Henriquee/Guilherme-Henriquee/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-Henriquee/Guilherme-Henriquee/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guilherme-Henriquee/Guilherme-Henriquee/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/Guilherme-Henriquee/Guilherme-Henriquee/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Guilherme-Henriquee/Guilherme-Henriquee/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/guilherme-henrique-de-lima/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="ewi7" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.instagram.com/g.lima019" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="mailto:guihenrics@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Guilherme-Henriquee.Guilherme-Henriquee&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=120&section=footer"/>
+</div>
+
+###
