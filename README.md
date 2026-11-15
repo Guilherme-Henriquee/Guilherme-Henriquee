@@ -3,7 +3,7 @@
 </div>
 <br/>
  
-> Computer Science graduate, currently pursuing a Postgraduate Specialization in Full Stack Development. Passionate about programming, machine learning, data science and robotics. I try to learn something new every day. 🚀
+> Computer Science graduate, currently pursuing a Postgraduate Specialization in Full Stack Development. Passionate about programming, machine learning, AI, data science and robotics. I try to learn something new every day. 🚀
  
 ---
  
@@ -11,8 +11,8 @@
  
 - 🎓 **Computer Science** — Graduated
 - 💻 **Postgraduate Student** in Full Stack Development
-- 🤖 Passionate about **Machine Learning** and **Data Science**
-- 🤖 Also love **Robotics** and automation
+- 🤖 Passionate about **Machine Learning**, **Data Science** and **AI**
+- 🤖 Also love **Robotics** and **automation**
 - 📖 Lifelong learner — always exploring something new
 - 📍 Brazil
 
